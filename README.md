@@ -6,7 +6,7 @@ This simple To-Do list lets the user add, remove, and mark tasks for completion.
 
 This is the first Javascript code I have written so I wanted to get a good understanding of setting up the body and style of the HTML that will run in the browser.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/KH-VRWMC7zE)
 
 # Development Environment
 
